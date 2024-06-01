@@ -1,0 +1,5 @@
+{
+	"devDependencies": {
+		"@rsbuild/core": "^0.7.2"
+	}
+}
